@@ -8,7 +8,6 @@ import numpy as np
 
 
 import func_cce as f
-import func_plot_cce as fp
 
 
 
